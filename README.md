@@ -62,7 +62,7 @@
 
 | Project | Description |
 |---|---|
-| **[Certificate Verification System](https://github.com/Sattwik-8)** | Production tool with 430+ real users, presented at IEEE HIT Tech Talk 2026. Rebuilding into Spring Boot + MySQL + JWT + Docker. |
+| **[Certificate Verification System]([https://github.com/Sattwik-8](https://github.com/ieeehitsb/Certificate-Verify))** | Production tool with 430+ real users, presented at IEEE HIT Tech Talk 2026. Rebuilding into Spring Boot + MySQL + JWT + Docker. |
 | **[8-bit ALU — Verilog](https://github.com/Sattwik-8/alu-8bit-verilog)** | Fully self-checked 8-bit ALU (directed + randomized tests, 212/212 PASS), with waveform analysis and documented design decisions. |
 | **[SecureAccess System](https://github.com/Sattwik-8/SecureAccess-System)** | Secure access / authentication system project. |
 | **URL Shortener** | Spring Boot + Redis + PostgreSQL — *coming soon* |
