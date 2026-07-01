@@ -1,24 +1,97 @@
-# 💫 About Me:
-👋 Hi, I’m Sattwik Dhara !<br>🎓 Electronics and Communication Engineering student<br>🛠️ Passionate about hardware design, VLSI, and embedded systems<br>🚀 Working on some exciting projects<br>💻 Learning Microprocessors and App Development<br>🔍 Always exploring new technologies and ideas in the realm of tech
+<h1 align="center">Hi 👋, I'm Sattwik Dhara</h1>
+<h3 align="center">Embedded Systems & RTL Design | SDE Aspirant | IEEE HIT SB Chairperson</h3>
 
+<p align="center">
+🎓 Electronics & Communication Engineering, Haldia Institute of Technology (CGPA 8.28) &nbsp;|&nbsp;
+📡 Building at the intersection of hardware and software &nbsp;|&nbsp;
+🚀 Prepping for SDE roles while shipping embedded + backend projects
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz_7_wik) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sattwik-dhara) [![Portfolio](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://sattwik1.netlify.app/)
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=plastic&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
+### 👀 About Me
+
+- 🔐 Built **SecureAccess System** — [check it out here](https://github.com/Sattwik-8/SecureAccess-System)
+- 🛠️ Rebuilding **Certificate Verification System v2** — taking a live tool (430+ real users, presented at IEEE HIT Tech Talk 2026) from a Google Sheets backend to Spring Boot + MySQL + JWT + Docker
+- ⚡ Comfortable across the stack: RTL/Verilog and microcontrollers on one side, Java/C++/Python and DSA on the other
+- 📌 **Chairperson, IEEE HIT Student Branch** — leading content, events, and technical sessions
+- 🌱 Currently sharpening: DSA, Spring Boot, system design, and FSM/memory-mapped peripheral design on STM32
+- 🎯 Targeting roles in embedded/RTL engineering and SDE
+
+---
+
+### 🛠️ Tech Stack
+
+**Backend & Systems Design**
+<p align="left">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+**Embedded / Hardware / RTL**
+<p align="left">
+<img src="https://img.shields.io/badge/Verilog-1E90FF?style=for-the-badge&logo=v&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
+</p>
+
+**Languages**
+<p align="left">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+**Tools**
+<p align="left">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+</p>
+
+---
+
+### 📌 Pinned / Featured Projects
+
+| Project | Description |
+|---|---|
+| **[Certificate Verification System](https://github.com/Sattwik-8)** | Production tool with 430+ real users, presented at IEEE HIT Tech Talk 2026. Rebuilding into Spring Boot + MySQL + JWT + Docker. |
+| **[8-bit ALU — Verilog](https://github.com/Sattwik-8/alu-8bit-verilog)** | Fully self-checked 8-bit ALU (directed + randomized tests, 212/212 PASS), with waveform analysis and documented design decisions. |
+| **[SecureAccess System](https://github.com/Sattwik-8/SecureAccess-System)** | Secure access / authentication system project. |
+| **URL Shortener** | Spring Boot + Redis + PostgreSQL — *coming soon* |
+| **Real-time Chat App** | WebSockets + Kafka — *planned* |
+
+---
+
+### 📊 GitHub Stats
+ 
 ![](https://github-readme-stats.vercel.app/api?username=Sattwik-8&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sattwik-8&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sattwik-8&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+ 
+### 📈 Contribution Graph
+ 
+![](https://github-readme-activity-graph.vercel.app/graph?username=Sattwik-8&theme=gruvbox&hide_border=false)
+ 
+### 🏅 Holopin Badges
+ 
 [![An image of @sattwik8's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sattwik8)](https://holopin.io/@sattwik8)
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sattwik-8&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
-
+ 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sattwik-8&icon=10&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🌐 Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Sattwik-8" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://YOUR-PORTFOLIO-LINK" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+</p>
+
+<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
